@@ -13,6 +13,7 @@ print("Datos del Participante")
 print(text.format(last_name.capitalize(),last_name_mother.capitalize(),name.capitalize()))
 '''
 #operadores de comparacion
+#este sera otor comentario
 a=10
 b=5
 print("Son iguales? " + str(a==b) )
